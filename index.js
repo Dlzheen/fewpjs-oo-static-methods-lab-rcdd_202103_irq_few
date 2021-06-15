@@ -1,6 +1,4 @@
 class Formatter {
-  //add static methods here
-  class Formatter {
   static capitalize(str) {
       return str[0].toUpperCase() + str.slice(1);
                     }
@@ -19,5 +17,4 @@ class Formatter {
        }
                            return strarray.join(" ");
    }
-}
 }
